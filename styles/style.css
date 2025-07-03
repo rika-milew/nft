@@ -982,6 +982,7 @@ h3 span {
 .faqs__faq {
   display: flex;
   flex-direction: column;
+  transition: all 0.3s ease;
 }
 
 .faqs__arrow {
@@ -990,6 +991,7 @@ h3 span {
   margin-right: 7.5px;
   background-image: url(../images/arrow-down2.svg);
   background-size: cover;
+  transition: all 0.3s ease;
 }
 
 .faqs__arrow.active {
@@ -997,6 +999,7 @@ h3 span {
   height: 7.13px;
   background-image: url(../images/arrow-up.svg);
   background-size: cover;
+  transition: all 0.3s ease;
 }
 
 .faqs__question {
@@ -1037,6 +1040,7 @@ h3 span {
 
 .faqs__faq.active .faqs__answer {
   display: block;
+  transition: all 0.3s ease;
 }
 
 /* cta  */
@@ -1550,6 +1554,7 @@ footer .container {
     z-index: 9999;
     display: block;
     width: 90%;
+    transition: all 0.5s ease;
   }
 
   #mobileMenu .mobile-container {
@@ -1591,6 +1596,7 @@ footer .container {
     margin-left: 30px;
     background-size: cover;
     background-repeat: no-repeat;  
+    transition: all 0.3s ease;
   }
 
   .burger-close {
@@ -1602,6 +1608,7 @@ footer .container {
     background-image: url(../images/burger-close.svg);
     background-size: contain;
     background-repeat: no-repeat;
+    transition: all 0.3s ease;
   }
 
   .header__icons div:nth-child(1) {
