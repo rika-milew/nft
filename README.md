@@ -26,12 +26,12 @@ A responsive one-page website showcasing an NFT collection. Built from scratch u
 ## Project Structure
 
 📁 nft/
-┣ 📁 assets/
-┃ ┣ 📁 img/
-┃ ┗ 📁 fonts/
+┣ 📁 images/
+┣ 📁 js/
+┃ ┣ 📄 script.js
+┣ 📁 styles/
+┃ ┣ 📄 style.css
 ┣ 📄 index.html
-┣ 📄 style.css
-┗ 📄 script.js
 
 ## Author
 
