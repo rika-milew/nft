@@ -16,8 +16,8 @@ A responsive one-page website showcasing an NFT collection. Built from scratch u
 
 ## ✨ Features
 
-- Adaptive design for all devices
 - Clean and minimal NFT landing layout
+- Adaptive design for all devices
 - Cross-browser compatibility  
 - Interactive burger menu  
 - NFT image gallery with hover effects  
