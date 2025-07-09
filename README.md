@@ -27,13 +27,15 @@ A responsive one-page website showcasing an NFT collection. Built from scratch u
 
 ## 📁 Project Structure
 
-```📁 nft/
+```plaintext
+📁 nft/
 ┣ 📁 images/
 ┣ 📁 js/
 ┃ ┣ 📄 script.js
 ┣ 📁 styles/
 ┃ ┣ 📄 style.css
-┣ 📄 index.html```
+┣ 📄 index.html
+```
 
 ## 💡 How to Use
 
