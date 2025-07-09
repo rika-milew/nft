@@ -1,4 +1,4 @@
-# NFT Preview Landing Page
+# 💎 NFT Preview Landing Page
 
 A responsive one-page website showcasing an NFT collection. Built from scratch using HTML, CSS, and JavaScript without any external libraries.
 
