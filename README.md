@@ -33,7 +33,7 @@ A responsive one-page website showcasing an NFT collection. Built from scratch u
 ┃ ┣ 📄 script.js
 ┣ 📁 styles/
 ┃ ┣ 📄 style.css
-┣ 📄 index.html ```
+┣ 📄 index.html```
 
 ## 💡 How to Use
 
